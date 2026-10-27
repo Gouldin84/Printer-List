@@ -78,32 +78,32 @@
                      {
                          "model":  "DEVELOP ineo Universal PCL",
                          "vendor":  "Develop",
-                         "driverName":  "DEVELOP ineo Universal PCL",
-                         "downloadUrl":  "https://dl.konicaminolta.eu/download/file/develop-ineo-universal-pcl6-x64.zip",
-                         "infPattern":  "KOA*.inf",
+                         "driverName":  "Generic Universal PCL",
+                         "downloadUrl":  "https://github.com/Gouldin84/Printer-List/releases/download/drivers/km_develop_universal_pcl_x64.zip",
+                         "infPattern":  "KOAWOJA_.inf",
                          "defaultQueueName":  "DEVELOP ineo Universal PCL"
                      },
                      {
                          "model":  "KONICA MINOLTA Universal PCL",
                          "vendor":  "Konica Minolta",
-                         "driverName":  "KONICA MINOLTA Universal PCL",
-                         "downloadUrl":  "https://dl.konicaminolta.eu/download/file/km-universal-pcl6-x64.zip",
-                         "infPattern":  "KOA*.inf",
+                         "driverName":  "Generic Universal PCL",
+                         "downloadUrl":  "https://github.com/Gouldin84/Printer-List/releases/download/drivers/km_develop_universal_pcl_x64.zip",
+                         "infPattern":  "KOAWOJA_.inf",
                          "defaultQueueName":  "KONICA MINOLTA Universal PCL"
                      },
                      {
                          "model":  "Brother Universal PCL Driver",
                          "vendor":  "Brother",
-                         "driverName":  "Brother Universal PCL Driver",
-                         "downloadUrl":  "https://raw.githubusercontent.com/Gouldin84/Printer-List/main/brother_universal_pcl_x64.zip",
-                         "infPattern":  "br*.inf",
+                         "driverName":  "Brother Mono Universal Printer (PCL)",
+                         "downloadUrl":  "https://github.com/Gouldin84/Printer-List/releases/download/drivers/brother_universal_pcl_x64.zip",
+                         "infPattern":  "BRUPCB0A.INF",
                          "defaultQueueName":  "Brother Universal Printer"
                      },
                      {
                          "model":  "Kyocera KX Universal Driver",
                          "vendor":  "Kyocera",
-                         "driverName":  "Kyocera KX Driver",
-                         "downloadUrl":  "https://oemdrivers.com/download/kyocera-kx-driver-x64.zip",
+                         "driverName":  "KX DRIVER for Universal Printing",
+                         "downloadUrl":  "https://github.com/Gouldin84/Printer-List/releases/download/drivers/kyocera_kx_universal_x64.zip",
                          "infPattern":  "oemsetup.inf",
                          "defaultQueueName":  "Kyocera KX Printer"
                      },
@@ -111,24 +111,24 @@
                          "model":  "Xerox Global Print Driver PCL6",
                          "vendor":  "Xerox",
                          "driverName":  "Xerox Global Print Driver PCL6",
-                         "downloadUrl":  "https://raw.githubusercontent.com/Gouldin84/Printer-List/main/xerox_global_pcl6_x64.zip",
-                         "infPattern":  "x2*.inf",
+                         "downloadUrl":  "https://github.com/Gouldin84/Printer-List/releases/download/drivers/xerox_global_pcl6_x64.zip",
+                         "infPattern":  "x3UNIVX.inf",
                          "defaultQueueName":  "Xerox Global PCL6 Printer"
                      },
                      {
                          "model":  "OKI Universal PCL",
                          "vendor":  "OKI",
                          "driverName":  "OKI Universal PCL6",
-                         "downloadUrl":  "https://raw.githubusercontent.com/Gouldin84/Printer-List/main/oki_universal_pcl_x64.zip",
+                         "downloadUrl":  "https://github.com/Gouldin84/Printer-List/releases/download/drivers/oki_universal_pcl_x64.zip",
                          "infPattern":  "okw*.inf",
                          "defaultQueueName":  "OKI Universal Printer"
                      },
                      {
                          "model":  "Ricoh PCL6 Universal Driver",
                          "vendor":  "Ricoh",
-                         "driverName":  "RICOH PCL6 UniversalDriver V4.34",
-                         "downloadUrl":  "https://oemdrivers.com/download/ricoh-pcl6-universal-x64.exe",
-                         "infPattern":  "r*.inf",
+                         "driverName":  "RICOH PCL6 UniversalDriver V4.46",
+                         "downloadUrl":  "https://github.com/Gouldin84/Printer-List/releases/download/drivers/ricoh_pcl6_universal_x64.zip",
+                         "infPattern":  "oemsetup.inf",
                          "defaultQueueName":  "Ricoh Universal PCL6 Printer"
                      }
                  ]
