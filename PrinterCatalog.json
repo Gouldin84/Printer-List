@@ -1,135 +1,135 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "version": "1.1.0",
-  "description": "Printer and Driver Definitions Catalog for NinjaOne Automated Deployment",
-  "printers": [
-    {
-      "model": "HP Color LaserJet Pro MFP 4302",
-      "vendor": "HP",
-      "driverName": "HP Universal Printing PCL 6",
-      "downloadUrl": "https://ftp.hp.com/pub/softlib/software13/printers/UPD/upd-pcl6-win10-x64-8.2.0.26778.zip",
-      "infPattern": "hpcu*.inf",
-      "defaultQueueName": "HP Color LaserJet Pro MFP 4302"
-    },
-    {
-      "model": "HP Color LaserJet Series",
-      "vendor": "HP",
-      "driverName": "HP Universal Printing PCL 6",
-      "downloadUrl": "https://ftp.hp.com/pub/softlib/software13/printers/UPD/upd-pcl6-win10-x64-8.2.0.26778.zip",
-      "infPattern": "hpcu*.inf",
-      "defaultQueueName": "HP Color LaserJet"
-    },
-    {
-      "model": "HP LaserJet Pro Series",
-      "vendor": "HP",
-      "driverName": "HP Universal Printing PCL 6",
-      "downloadUrl": "https://ftp.hp.com/pub/softlib/software13/printers/UPD/upd-pcl6-win10-x64-8.2.0.26778.zip",
-      "infPattern": "hpcu*.inf",
-      "defaultQueueName": "HP LaserJet Pro"
-    },
-    {
-      "model": "HP Universal Printing PCL 6",
-      "vendor": "HP",
-      "driverName": "HP Universal Printing PCL 6",
-      "downloadUrl": "https://ftp.hp.com/pub/softlib/software13/printers/UPD/upd-pcl6-win10-x64-8.2.0.26778.zip",
-      "infPattern": "hpcu*.inf",
-      "defaultQueueName": "HP Universal Printing PCL 6"
-    },
-    {
-      "model": "Canon i-SENSYS MF750 Series",
-      "vendor": "Canon",
-      "driverName": "Canon Generic Plus PCL6",
-      "downloadUrl": "https://gdlp01.c-wss.com/gds/7/0100013137/01/GPlus_PCL6_Driver_V350_W64_00.exe",
-      "infPattern": "CNP60MA64.INF",
-      "defaultQueueName": "Canon i-SENSYS MF750 Series"
-    },
-    {
-      "model": "Canon i-SENSYS MF740 Series",
-      "vendor": "Canon",
-      "driverName": "Canon Generic Plus PCL6",
-      "downloadUrl": "https://gdlp01.c-wss.com/gds/7/0100013137/01/GPlus_PCL6_Driver_V350_W64_00.exe",
-      "infPattern": "CNP60MA64.INF",
-      "defaultQueueName": "Canon i-SENSYS MF740 Series"
-    },
-    {
-      "model": "Canon Generic Plus PCL6",
-      "vendor": "Canon",
-      "driverName": "Canon Generic Plus PCL6",
-      "downloadUrl": "https://gdlp01.c-wss.com/gds/7/0100013137/01/GPlus_PCL6_Driver_V350_W64_00.exe",
-      "infPattern": "CNP60MA64.INF",
-      "defaultQueueName": "Canon Generic Plus PCL6"
-    },
-    {
-      "model": "EPSON Universal Print Driver",
-      "vendor": "Epson",
-      "driverName": "EPSON Universal Print Driver",
-      "downloadUrl": "https://download.ebz.epson.net/dsc/f/03/00/15/43/27/c255bc22c2a0438cf180e0717ee0c3884157147b/Epson_Universal_PCL6_x64.zip",
-      "infPattern": "e_jfb*.inf",
-      "defaultQueueName": "EPSON Universal Printer"
-    },
-    {
-      "model": "EPSON WorkForce / EcoTank Series",
-      "vendor": "Epson",
-      "driverName": "EPSON Universal Print Driver",
-      "downloadUrl": "https://download.ebz.epson.net/dsc/f/03/00/15/43/27/c255bc22c2a0438cf180e0717ee0c3884157147b/Epson_Universal_PCL6_x64.zip",
-      "infPattern": "e_jfb*.inf",
-      "defaultQueueName": "EPSON WorkForce Printer"
-    },
-    {
-      "model": "DEVELOP ineo Universal PCL",
-      "vendor": "Develop",
-      "driverName": "DEVELOP ineo Universal PCL",
-      "downloadUrl": "https://dl.konicaminolta.eu/download/file/develop-ineo-universal-pcl6-x64.zip",
-      "infPattern": "KOA*.inf",
-      "defaultQueueName": "DEVELOP ineo Universal PCL"
-    },
-    {
-      "model": "KONICA MINOLTA Universal PCL",
-      "vendor": "Konica Minolta",
-      "driverName": "KONICA MINOLTA Universal PCL",
-      "downloadUrl": "https://dl.konicaminolta.eu/download/file/km-universal-pcl6-x64.zip",
-      "infPattern": "KOA*.inf",
-      "defaultQueueName": "KONICA MINOLTA Universal PCL"
-    },
-    {
-      "model": "Brother Universal PCL Driver",
-      "vendor": "Brother",
-      "driverName": "Brother Universal PCL Driver",
-      "downloadUrl": "https://download.brother.com/welcome/dlf006893/brother_universal_pcl_x64.exe",
-      "infPattern": "br*.inf",
-      "defaultQueueName": "Brother Universal Printer"
-    },
-    {
-      "model": "Kyocera KX Universal Driver",
-      "vendor": "Kyocera",
-      "driverName": "Kyocera KX Driver",
-      "downloadUrl": "https://oemdrivers.com/download/kyocera-kx-driver-x64.zip",
-      "infPattern": "oemsetup.inf",
-      "defaultQueueName": "Kyocera KX Printer"
-    },
-    {
-      "model": "Xerox Global Print Driver PCL6",
-      "vendor": "Xerox",
-      "driverName": "Xerox Global Print Driver PCL6",
-      "downloadUrl": "https://oemdrivers.com/download/xerox-global-print-driver-pcl6-x64.exe",
-      "infPattern": "x2*.inf",
-      "defaultQueueName": "Xerox Global PCL6 Printer"
-    },
-    {
-  "model": "OKI Universal PCL",
-  "vendor": "OKI",
-  "driverName": "OKI Universal PCL6",
-  "downloadUrl": "https://raw.githubusercontent.com/Gouldin84/Printer-List/main/oki_universal_pcl_x64.zip",
-  "infPattern": "okw*.inf",
-  "defaultQueueName": "OKI Universal Printer"
-    },
-    {
-      "model": "Ricoh PCL6 Universal Driver",
-      "vendor": "Ricoh",
-      "driverName": "RICOH PCL6 UniversalDriver V4.34",
-      "downloadUrl": "https://oemdrivers.com/download/ricoh-pcl6-universal-x64.exe",
-      "infPattern": "r*.inf",
-      "defaultQueueName": "Ricoh Universal PCL6 Printer"
-    }
-  ]
+    "$schema":  "http://json-schema.org/draft-07/schema#",
+    "version":  "1.1.0",
+    "description":  "Printer and Driver Definitions Catalog for NinjaOne Automated Deployment",
+    "printers":  [
+                     {
+                         "model":  "HP Color LaserJet Pro MFP 4302",
+                         "vendor":  "HP",
+                         "driverName":  "HP Universal Printing PCL 6",
+                         "downloadUrl":  "https://ftp.hp.com/pub/softlib/software13/printers/UPD/upd-pcl6-win10-x64-8.2.0.26778.zip",
+                         "infPattern":  "hpcu*.inf",
+                         "defaultQueueName":  "HP Color LaserJet Pro MFP 4302"
+                     },
+                     {
+                         "model":  "HP Color LaserJet Series",
+                         "vendor":  "HP",
+                         "driverName":  "HP Universal Printing PCL 6",
+                         "downloadUrl":  "https://ftp.hp.com/pub/softlib/software13/printers/UPD/upd-pcl6-win10-x64-8.2.0.26778.zip",
+                         "infPattern":  "hpcu*.inf",
+                         "defaultQueueName":  "HP Color LaserJet"
+                     },
+                     {
+                         "model":  "HP LaserJet Pro Series",
+                         "vendor":  "HP",
+                         "driverName":  "HP Universal Printing PCL 6",
+                         "downloadUrl":  "https://ftp.hp.com/pub/softlib/software13/printers/UPD/upd-pcl6-win10-x64-8.2.0.26778.zip",
+                         "infPattern":  "hpcu*.inf",
+                         "defaultQueueName":  "HP LaserJet Pro"
+                     },
+                     {
+                         "model":  "HP Universal Printing PCL 6",
+                         "vendor":  "HP",
+                         "driverName":  "HP Universal Printing PCL 6",
+                         "downloadUrl":  "https://ftp.hp.com/pub/softlib/software13/printers/UPD/upd-pcl6-win10-x64-8.2.0.26778.zip",
+                         "infPattern":  "hpcu*.inf",
+                         "defaultQueueName":  "HP Universal Printing PCL 6"
+                     },
+                     {
+                         "model":  "Canon i-SENSYS MF750 Series",
+                         "vendor":  "Canon",
+                         "driverName":  "Canon Generic Plus PCL6",
+                         "downloadUrl":  "https://gdlp01.c-wss.com/gds/7/0100013137/01/GPlus_PCL6_Driver_V350_W64_00.exe",
+                         "infPattern":  "CNP60MA64.INF",
+                         "defaultQueueName":  "Canon i-SENSYS MF750 Series"
+                     },
+                     {
+                         "model":  "Canon i-SENSYS MF740 Series",
+                         "vendor":  "Canon",
+                         "driverName":  "Canon Generic Plus PCL6",
+                         "downloadUrl":  "https://gdlp01.c-wss.com/gds/7/0100013137/01/GPlus_PCL6_Driver_V350_W64_00.exe",
+                         "infPattern":  "CNP60MA64.INF",
+                         "defaultQueueName":  "Canon i-SENSYS MF740 Series"
+                     },
+                     {
+                         "model":  "Canon Generic Plus PCL6",
+                         "vendor":  "Canon",
+                         "driverName":  "Canon Generic Plus PCL6",
+                         "downloadUrl":  "https://gdlp01.c-wss.com/gds/7/0100013137/01/GPlus_PCL6_Driver_V350_W64_00.exe",
+                         "infPattern":  "CNP60MA64.INF",
+                         "defaultQueueName":  "Canon Generic Plus PCL6"
+                     },
+                     {
+                         "model":  "EPSON Universal Print Driver",
+                         "vendor":  "Epson",
+                         "driverName":  "EPSON Universal Print Driver",
+                         "downloadUrl":  "https://download.ebz.epson.net/dsc/f/03/00/15/43/27/c255bc22c2a0438cf180e0717ee0c3884157147b/Epson_Universal_PCL6_x64.zip",
+                         "infPattern":  "e_jfb*.inf",
+                         "defaultQueueName":  "EPSON Universal Printer"
+                     },
+                     {
+                         "model":  "EPSON WorkForce / EcoTank Series",
+                         "vendor":  "Epson",
+                         "driverName":  "EPSON Universal Print Driver",
+                         "downloadUrl":  "https://download.ebz.epson.net/dsc/f/03/00/15/43/27/c255bc22c2a0438cf180e0717ee0c3884157147b/Epson_Universal_PCL6_x64.zip",
+                         "infPattern":  "e_jfb*.inf",
+                         "defaultQueueName":  "EPSON WorkForce Printer"
+                     },
+                     {
+                         "model":  "DEVELOP ineo Universal PCL",
+                         "vendor":  "Develop",
+                         "driverName":  "DEVELOP ineo Universal PCL",
+                         "downloadUrl":  "https://dl.konicaminolta.eu/download/file/develop-ineo-universal-pcl6-x64.zip",
+                         "infPattern":  "KOA*.inf",
+                         "defaultQueueName":  "DEVELOP ineo Universal PCL"
+                     },
+                     {
+                         "model":  "KONICA MINOLTA Universal PCL",
+                         "vendor":  "Konica Minolta",
+                         "driverName":  "KONICA MINOLTA Universal PCL",
+                         "downloadUrl":  "https://dl.konicaminolta.eu/download/file/km-universal-pcl6-x64.zip",
+                         "infPattern":  "KOA*.inf",
+                         "defaultQueueName":  "KONICA MINOLTA Universal PCL"
+                     },
+                     {
+                         "model":  "Brother Universal PCL Driver",
+                         "vendor":  "Brother",
+                         "driverName":  "Brother Universal PCL Driver",
+                         "downloadUrl":  "https://raw.githubusercontent.com/Gouldin84/Printer-List/main/brother_universal_pcl_x64.zip",
+                         "infPattern":  "br*.inf",
+                         "defaultQueueName":  "Brother Universal Printer"
+                     },
+                     {
+                         "model":  "Kyocera KX Universal Driver",
+                         "vendor":  "Kyocera",
+                         "driverName":  "Kyocera KX Driver",
+                         "downloadUrl":  "https://oemdrivers.com/download/kyocera-kx-driver-x64.zip",
+                         "infPattern":  "oemsetup.inf",
+                         "defaultQueueName":  "Kyocera KX Printer"
+                     },
+                     {
+                         "model":  "Xerox Global Print Driver PCL6",
+                         "vendor":  "Xerox",
+                         "driverName":  "Xerox Global Print Driver PCL6",
+                         "downloadUrl":  "https://oemdrivers.com/download/xerox-global-print-driver-pcl6-x64.exe",
+                         "infPattern":  "x2*.inf",
+                         "defaultQueueName":  "Xerox Global PCL6 Printer"
+                     },
+                     {
+                         "model":  "OKI Universal PCL",
+                         "vendor":  "OKI",
+                         "driverName":  "OKI Universal PCL6",
+                         "downloadUrl":  "https://raw.githubusercontent.com/Gouldin84/Printer-List/main/oki_universal_pcl_x64.zip",
+                         "infPattern":  "okw*.inf",
+                         "defaultQueueName":  "OKI Universal Printer"
+                     },
+                     {
+                         "model":  "Ricoh PCL6 Universal Driver",
+                         "vendor":  "Ricoh",
+                         "driverName":  "RICOH PCL6 UniversalDriver V4.34",
+                         "downloadUrl":  "https://oemdrivers.com/download/ricoh-pcl6-universal-x64.exe",
+                         "infPattern":  "r*.inf",
+                         "defaultQueueName":  "Ricoh Universal PCL6 Printer"
+                     }
+                 ]
 }
