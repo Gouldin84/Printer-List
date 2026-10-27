@@ -118,8 +118,8 @@
     {
   "model": "OKI Universal PCL",
   "vendor": "OKI",
-  "driverName": "OKI Universal PCL",
-  "downloadUrl": "https://your-storage-or-s3/drivers/oki_universal_pcl_x64.zip",
+  "driverName": "OKI Universal PCL6",
+  "downloadUrl": "https://raw.githubusercontent.com/Gouldin84/Printer-List/main/drivers/oki_universal_pcl_x64.zip",
   "infPattern": "okw*.inf",
   "defaultQueueName": "OKI Universal Printer"
     },
