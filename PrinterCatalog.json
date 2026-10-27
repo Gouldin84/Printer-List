@@ -111,7 +111,7 @@
                          "model":  "Xerox Global Print Driver PCL6",
                          "vendor":  "Xerox",
                          "driverName":  "Xerox Global Print Driver PCL6",
-                         "downloadUrl":  "https://oemdrivers.com/download/xerox-global-print-driver-pcl6-x64.exe",
+                         "downloadUrl":  "https://raw.githubusercontent.com/Gouldin84/Printer-List/main/xerox_global_pcl6_x64.zip",
                          "infPattern":  "x2*.inf",
                          "defaultQueueName":  "Xerox Global PCL6 Printer"
                      },
