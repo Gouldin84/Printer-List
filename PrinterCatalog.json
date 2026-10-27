@@ -116,6 +116,14 @@
       "defaultQueueName": "Xerox Global PCL6 Printer"
     },
     {
+  "model": "OKI Universal PCL",
+  "vendor": "OKI",
+  "driverName": "OKI Universal PCL",
+  "downloadUrl": "https://your-storage-or-s3/drivers/oki_universal_pcl_x64.zip",
+  "infPattern": "okw*.inf",
+  "defaultQueueName": "OKI Universal Printer"
+    },
+    {
       "model": "Ricoh PCL6 Universal Driver",
       "vendor": "Ricoh",
       "driverName": "RICOH PCL6 UniversalDriver V4.34",
